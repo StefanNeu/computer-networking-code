@@ -1,0 +1,4 @@
+This is some test output.
+It has a few lines.
+A proper HTTP response should keep the newlines.
+Bye.
